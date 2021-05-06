@@ -1,8 +1,6 @@
 # JobsUpply-frontend
 Your first step into the working world
 
-Check out the backend repository at: https://github.com/kiranbodipati/JobsUpply
-
 ### To run locally:
  - set up the backend server on localhost:8000 through the link above
  - have node installed
