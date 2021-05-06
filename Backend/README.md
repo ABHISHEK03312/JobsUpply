@@ -1,4 +1,5 @@
-# Backend
+# JobsUpply-backend
+Your first step into the working world
 
 ### To run locally:
  - pip install all requirements with "pip install -r requirements.txt"
