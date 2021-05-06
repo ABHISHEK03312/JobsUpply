@@ -1,8 +1,6 @@
 # JobsUpply
 Your first step into the working world
 
-Check out the frontend repository at: https://github.com/kiranbodipati/JobsUpply-frontend
-
 ### To run locally:
  - pip install all requirements with "pip install -r requirements.txt"
  - If the above fails, install the packages in order (ignore unsupported version warning for Djongo/Django, Djongo's dependencies haven't been updated but it functions fine)
