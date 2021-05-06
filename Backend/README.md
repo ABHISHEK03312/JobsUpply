@@ -1,4 +1,4 @@
-#Frontend
+# Backend
 
 ### To run locally:
  - pip install all requirements with "pip install -r requirements.txt"
