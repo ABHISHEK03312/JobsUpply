@@ -1,5 +1,4 @@
 # JobsUpply-frontend
-Your first step into the working world
 
 ### To run locally:
  - set up the backend server on localhost:8000 through the link above
