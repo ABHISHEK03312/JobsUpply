@@ -1,0 +1,106 @@
+:root {
+    --primary: #fff;
+}
+
+.btn {
+    padding: 8px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btn--primary {
+    background-color: var(--primary);
+    color: #242424;
+    border: 1px solid var(--primary);
+}
+
+.btn--outline{
+     background-color: transparent;
+     color:#fff;
+     padding: 8px 20px;
+     border: 1px solid var(--primary);
+     transition: all 0.3s ease-out;
+}
+
+.btn-medium{
+    padding: 8px 20px;
+    font-size: 20px
+}
+
+btn-large{
+    padding: 12px 26px;
+    font-size: 20px;
+}
+
+.btn-medium:hover,
+.btn--large:hover {
+    background: #fff;
+    color: #9c5ca5;
+    transition: 1s;
+}
+
+.btn-orange {
+     color: #FFF;
+     font-size: 20px;
+     font-weight: 700;
+     /* margin: 1em; */
+     padding: 1.25em 2.25em;
+     border: none;
+     border-radius: 35px;
+     display: block;
+     text-transform: uppercase;
+     background: rgb(244,98,58);
+}
+
+.btn-orange:hover{
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+    transition: all 200ms ease-in-out;
+    filter: contrast(0.6);
+}
+
+.btn--skillhave {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 0.75em 1.25em;
+    border: none;
+    border-radius: 35px;
+    display: block;
+    text-transform: uppercase;
+    background: bisque;
+    color: #242424;
+    border: 1px solid bisque;
+    margin: 0.25em;
+    white-space: nowrap;
+}
+.btn--skilldonthave {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 0.75em 1.25em;
+    border: none;
+    border-radius: 35px;
+    display: block;
+    text-transform: uppercase;
+    background: coral ;
+    color: #242424;
+    border: 1px solid whitesmoke;
+    margin: 0.25em;
+    white-space: nowrap;
+}
+
+.btn--skillProfilehave {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 0.75em 1.25em;
+    border: none;
+    border-radius: 35px;
+    display: block;
+    text-transform: uppercase;
+    background: bisque;
+    color: #242424;
+    border: 1px solid bisque;
+    margin: 0.25em;
+}
