@@ -1,5 +1,4 @@
-# JobsUpply
-Your first step into the working world
+#Frontend
 
 ### To run locally:
  - pip install all requirements with "pip install -r requirements.txt"
